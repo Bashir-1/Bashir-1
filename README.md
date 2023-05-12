@@ -1,27 +1,21 @@
 ## 👋 NCC-17039
 
-I am Yuanlin Lin, a freelance full-stack developer from Taiwan, currently studying at Zhejiang University, majoring in Computer Science. 
+Hello! I am NCC-17039! Welcome to my personal Github repository, nice to meet you here.
 
 Hello！我是NCC-17039！欢迎来到我的Github个人仓库，很高兴在这里认识你。
 
-Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio website on [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
+I am a student from Changsha, China. I am interested in these black technologies; at the same time, I am also a TREKKER (Star Trek fan)🖖.
 
 我是一名来自中国长沙的学生。我对这些黑科技感兴趣；同时我还是一名TREKKER（星际迷航迷）🖖。
 
 ## 🖥 My Personal Website
 
-![HomePage](https://www.ncc17039.top)
-![Alternate Site](https://ncc17039.eu.org)
+[HomePage](https://www.ncc17039.top)
+[Alternate Site](https://ncc17039.eu.org)
 
 ## 🎞 My GitHub Stats
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashir-1&count_private=true&show_icons=true&theme=dark))
-
-## Languages
-
-![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-CSS?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashir-1&count_private=true&show_icons=true&theme=dark)
 
 ## Analysis Tool skills
 
