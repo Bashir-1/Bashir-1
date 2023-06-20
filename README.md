@@ -10,7 +10,7 @@ I am a student from Changsha, China. I am interested in these black technologies
 
 ## 🖥 My Personal Website
 
-[HomePage](https://www.ncc17039.top) | 
+[HomePage](https://www.ncc17039.eu.org) | 
 [Alternate Site](https://ncc17039.eu.org)
 
 ## 🎞 My GitHub Stats
